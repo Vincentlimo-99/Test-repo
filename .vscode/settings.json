@@ -1,0 +1,7 @@
+{
+    "explorer.excludeGitIgnore": false,
+    "git.confirmSync": true,
+    "git.countBadge": "off",
+    "git.enabled": false,
+    "git.statusLimit": 1000
+}
